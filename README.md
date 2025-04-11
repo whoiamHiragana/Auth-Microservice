@@ -21,8 +21,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/whoiamgiragana/privacy-auth-microservice.git
-   cd privacy-auth-microservice
+   git clone https://github.com/whoiamHiragana/Auth-Microservice.git
+   cd Auth-Microservice
    ```
 
 2. Создайте `.env` файл (пример в `.env.example`):
